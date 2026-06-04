@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AFMobile</string>
+    <string-array name="opcoes_situacao">
+        <item>Biblioteca</item>
+        <item>Livraria</item>
+        <item>Aula</item>
+        <item>Indicação</item>
+        <item>Leitura em casa</item>
+        <item>Viagem</item>
+        <item>Outro</item>
+    </string-array>
+
+    <string-array name="opcoes_status">
+        <item>Quero ler</item>
+        <item>Lendo</item>
+        <item>Concluído</item>
+    </string-array>
+</resources>
